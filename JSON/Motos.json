@@ -1,0 +1,423 @@
+[
+  {
+    "Marca": "Honda",
+    "Modelo": "Dio 110",
+    "Descripcion": "Scooter compacto, económico y ágil, ideal para desplazamientos urbanos gracias a su bajo consumo de combustible y facilidad de conducción.",
+    "Caracteristicas": {
+      "Motor": "109.5 cc, monocilíndrico, 4 tiempos, SOHC, refrigerado por aire",
+      "Potencia": "8 HP aprox.",
+      "Torque": "9 Nm aprox.",
+      "Transmision": "Automática CVT",
+      "Arranque": "Eléctrico y pedal",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Tambor",
+      "SuspensionDelantera": "Horquilla telescópica",
+      "SuspensionTrasera": "Monoamortiguador",
+      "CapacidadTanque": "5.3 L"
+    },
+    "Año": 2026,
+    "precio": "C$58,544",
+    "precioPromo": "C$50,908",
+    "rutadeimg": "../IMG/Dio110.jpg",
+    "tipo": "Scooter"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Wave 110S",
+    "Descripcion": "Motocicleta semiautomática reconocida por su economía, confiabilidad y facilidad de mantenimiento.",
+    "Caracteristicas": {
+      "Motor": "109.1 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "8.3 HP aprox.",
+      "Torque": "8.6 Nm aprox.",
+      "Transmision": "Semiautomática de 4 velocidades",
+      "Arranque": "Eléctrico y pedal",
+      "FrenoDelantero": "Tambor",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "3.7 L"
+    },
+    "Año": 2026,
+    "precio": "C$61,071",
+    "precioPromo": "C$53,105",
+    "rutadeimg": "../IMG/wave.png",
+    "tipo": "Semiautomatica"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Navi 110",
+    "Descripcion": "Mini moto urbana con diseño juvenil, transmisión automática y excelente maniobrabilidad.",
+    "Caracteristicas": {
+      "Motor": "109.2 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "7.8 HP aprox.",
+      "Torque": "8.9 Nm aprox.",
+      "Transmision": "Automática CVT",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Tambor",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "3.5 L"
+    },
+    "Año": 2026,
+    "precio": "C$71,179",
+    "precioPromo": "C$61,895",
+    "rutadeimg": "../IMG/navieditada.png",
+    "tipo": "Mini moto urbana"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Elite 125",
+    "Descripcion": "Scooter cómodo y moderno, ideal para el uso diario con excelente eficiencia de combustible.",
+    "Caracteristicas": {
+      "Motor": "124.9 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "8.2 HP aprox.",
+      "Torque": "10.1 Nm aprox.",
+      "Transmision": "Automática CVT",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "5.3 L"
+    },
+    "Año": 2026,
+    "precio": "C$73,706",
+    "precioPromo": "C$64,093",
+    "rutadeimg": "../IMG/elite125.jpg",
+    "tipo": "Scooter"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CB100",
+    "Descripcion": "Motocicleta urbana confiable y económica para trabajo y uso diario.",
+    "Caracteristicas": {
+      "Motor": "99.1 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "7.5 HP aprox.",
+      "Torque": "7.5 Nm aprox.",
+      "Transmision": "4 velocidades",
+      "Arranque": "Eléctrico y pedal",
+      "FrenoDelantero": "Tambor",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "10 L"
+    },
+    "Año": 2026,
+    "precio": "C$48,436",
+    "precioPromo": "C$42,118",
+    "rutadeimg": "../IMG/cb100.jpg  ",
+    "tipo": "Mensajera"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CB125F Twister",
+    "Descripcion": "Motocicleta deportiva ligera con excelente equilibrio entre rendimiento y economía.",
+    "Caracteristicas": {
+      "Motor": "124.8 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "11 HP aprox.",
+      "Torque": "11 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "10.1 L"
+    },
+    "Año": 2026,
+    "precio": "C$69,495",
+    "precioPromo": "C$60,430",
+    "rutadeimg": "../IMG/cb125f.jpg",
+    "tipo": "Deportiva"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CB125 Hornet",
+    "Descripcion": "Naked deportiva con diseño moderno, excelente desempeño urbano y gran eficiencia.",
+    "Caracteristicas": {
+      "Motor": "123.9 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "11 HP aprox.",
+      "Torque": "11.2 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco con CBS",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "12 L"
+    },
+    "Año": 2026,
+    "precio": "C$79,603",
+    "precioPromo": "C$69,220",
+    "rutadeimg": "../IMG/125hornet.png",
+    "tipo": "Deportiva"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CBF150S",
+    "Descripcion": "Motocicleta urbana con diseño deportivo, cómoda y eficiente para recorridos diarios.",
+    "Caracteristicas": {
+      "Motor": "149 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "13 HP aprox.",
+      "Torque": "13 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "13 L"
+    },
+    "Año": 2026,
+    "precio": "C$71,179",
+    "precioPromo": "C$61,895",
+    "rutadeimg": "../IMG/cbf150s.jpg",
+    "tipo": "Deportiva"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "Shadow 150",
+    "Descripcion": "Motocicleta estilo cruiser con posición de manejo relajada y diseño clásico.",
+    "Caracteristicas": {
+      "Motor": "149 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "12 HP aprox.",
+      "Torque": "12.5 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "13 L"
+    },
+    "Año": 2026,
+    "precio": "C$92,659",
+    "precioPromo": "C$80,573",
+    "rutadeimg": "../IMG/shadow.jpg",
+    "tipo": "Cruiser"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "XBlade 160",
+    "Descripcion": "Motocicleta naked deportiva con diseño agresivo y excelente rendimiento urbano.",
+    "Caracteristicas": {
+      "Motor": "162.7 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "13.7 HP aprox.",
+      "Torque": "14.7 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "12 L"
+    },
+    "Año": 2026,
+    "precio": "C$96,871",
+    "precioPromo": "C$84,236",
+    "rutadeimg": "../IMG/xblade.png",
+    "tipo": "Deportiva"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CB160R Hornet",
+    "Descripcion": "Naked deportiva de gran desempeño, ideal para ciudad y carretera.",
+    "Caracteristicas": {
+      "Motor": "162.7 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "16 HP aprox.",
+      "Torque": "14.8 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco ABS",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "12 L"
+    },
+    "Año": 2026,
+    "precio": "C$109,507",
+    "precioPromo": "C$95,224",
+    "rutadeimg": "../IMG/hornet160.jpg",
+    "tipo": "Deportiva"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CB190R 2.0",
+    "Descripcion": "Motocicleta naked deportiva con diseño moderno y excelente respuesta en carretera.",
+    "Caracteristicas": {
+      "Motor": "184.4 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "16.4 HP aprox.",
+      "Torque": "16.3 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco ABS",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "12 L"
+    },
+    "Año": 2026,
+    "precio": "C$134,777",
+    "precioPromo": "C$117,198",
+    "rutadeimg": "../IMG/cb190r.png",
+    "tipo": "Deportiva"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "NX190",
+    "Descripcion": "Motocicleta doble propósito diseñada para ciudad y caminos rurales.",
+    "Caracteristicas": {
+      "Motor": "184.4 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "16 HP aprox.",
+      "Torque": "15.7 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco ABS",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "12 L"
+    },
+    "Año": 2026,
+    "precio": "C$143,201",
+    "precioPromo": "C$124,523",
+    "rutadeimg": "../IMG/nx190.jpg",
+    "tipo": "Montañera"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CB300F Twister",
+    "Descripcion": "Naked deportiva de media cilindrada con excelente potencia y tecnología moderna.",
+    "Caracteristicas": {
+      "Motor": "293 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "24 HP aprox.",
+      "Torque": "25.6 Nm aprox.",
+      "Transmision": "6 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco ABS",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "14 L"
+    },
+    "Año": 2026,
+    "precio": "C$164,260",
+    "precioPromo": "C$142,835",
+    "rutadeimg": "../IMG/cb300f.png",
+    "tipo": "Deportiva"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "XR150L",
+    "Descripcion": "Motocicleta doble propósito ideal para trabajo, ciudad y caminos de tierra.",
+    "Caracteristicas": {
+      "Motor": "149 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "12.1 HP aprox.",
+      "Torque": "12.5 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico y pedal",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Tambor",
+      "CapacidadTanque": "12 L"
+    },
+    "Año": 2026,
+    "precio": "C$143,201",
+    "precioPromo": "C$124,523",
+    "rutadeimg": "../IMG/xr150l.jpg",
+    "tipo": "Enduro"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "XR190L",
+    "Descripcion": "Motocicleta doble propósito con mayor potencia para carretera y terrenos difíciles.",
+    "Caracteristicas": {
+      "Motor": "184.4 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "15.6 HP aprox.",
+      "Torque": "15.7 Nm aprox.",
+      "Transmision": "5 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "12 L"
+    },
+    "Año": 2026,
+    "precio": "C$172,684",
+    "precioPromo": "C$150,160",
+    "rutadeimg": "../IMG/xr190l.jpg",
+    "tipo": "Enduro"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "XR300L",
+    "Descripcion": "Motocicleta doble propósito preparada para recorridos largos y terrenos exigentes.",
+    "Caracteristicas": {
+      "Motor": "286 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "27 HP aprox.",
+      "Torque": "26 Nm aprox.",
+      "Transmision": "6 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco ABS",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "13.8 L"
+    },
+    "Año": 2026,
+    "precio": "C$290,614",
+    "precioPromo": "C$252,708",
+    "rutadeimg": "../IMG/xr300l.png",
+    "tipo": "Enduro"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CRF300F",
+    "Descripcion": "Motocicleta de enduro diseñada para uso fuera de carretera y aventuras.",
+    "Caracteristicas": {
+      "Motor": "286 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "27 HP aprox.",
+      "Torque": "26.6 Nm aprox.",
+      "Transmision": "6 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "7.8 L"
+    },
+    "Año": 2026,
+    "precio": "C$326,414",
+    "precioPromo": "C$283,838",
+    "rutadeimg": "../IMG/crf300.jpg",
+    "tipo": "Enduro"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "CRF300 Rally",
+    "Descripcion": "Motocicleta adventure inspirada en el Dakar, ideal para viajes y rutas mixtas.",
+    "Caracteristicas": {
+      "Motor": "286 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "27 HP aprox.",
+      "Torque": "26.6 Nm aprox.",
+      "Transmision": "6 velocidades",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Disco ABS",
+      "FrenoTrasero": "Disco ABS",
+      "CapacidadTanque": "12.8 L"
+    },
+    "Año": 2026,
+    "precio": "$9,430",
+    "precioPromo": "$8,200",
+    "rutadeimg": "../IMG/crf300rally.jpg",
+    "tipo": "Adventure"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "TRX250TM 4x2 Manual",
+    "Descripcion": "Cuadraciclo utilitario robusto para trabajo agrícola, ganadero y recreación.",
+    "Caracteristicas": {
+      "Motor": "229 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "19 HP aprox.",
+      "Transmision": "Manual de 5 velocidades con reversa",
+      "Traccion": "4x2",
+      "Arranque": "Eléctrico",
+      "Frenos": "Tambor",
+      "CapacidadTanque": "9.5 L"
+    },
+    "Año": 2026,
+    "precio": "$8,625",
+    "precioPromo": "$7,500",
+    "rutadeimg": "../IMG/trx250.png",
+    "tipo": "Cuadraciclo"
+  },
+  {
+    "Marca": "Honda",
+    "Modelo": "TRX250X Sport",
+    "Descripcion": "Cuadraciclo deportivo diseñado para recreación y conducción off-road.",
+    "Caracteristicas": {
+      "Motor": "229 cc, monocilíndrico, 4 tiempos",
+      "Potencia": "19 HP aprox.",
+      "Transmision": "Manual de 5 velocidades con reversa",
+      "Traccion": "4x2",
+      "Arranque": "Eléctrico",
+      "FrenoDelantero": "Doble disco",
+      "FrenoTrasero": "Disco",
+      "CapacidadTanque": "9.5 L"
+    },
+    "Año": 2026,
+    "precio": "$8,970",
+    "precioPromo": "$7,800",
+    "rutadeimg": "../IMG/trx250sport.jpg",
+    "tipo": "Cuadraciclo deportivo"
+  }
+]
