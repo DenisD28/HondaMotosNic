@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="CSS/bootstrap.min.css">
+    <link rel="stylesheet" href="CSS/style.css">
     <title>Principal</title>
 </head>
 
@@ -43,7 +44,7 @@
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
-                        
+
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
@@ -54,14 +55,37 @@
         </div>
     </section>
     <footer class="container-fluid">
-        <div class="row">
-            <h3>Contactanos</h3>
+        <div class="row footer">
+            <div class="col-3">
+                <h3>Contactanos</h3>
+                <p>Telefono: 8664 4337</p>
+                <p>Correo:dsalmeron@cfs.com.ni</p>
+                <p>Direccion: Sutiava, Gasolinera Uno 20vrs al este</p>
+            </div>
+            <div class="col-3">
+                <h3>Redes Sociales</h3>
+                <p>Facebook: Honda Motos Nicaragua</p>
+                <p>Instagram: @HondaMotosNic</p>
+                <p>TikTok: @HondaMotosNic</p>
+            </div>
+            <div class="col">
+                <h3>Ubicacion</h3>
+                <div class="mapa">
+                    <gmp-map center="12.434792248442891, -86.89001795969176" zoom="18" map-id="DEMO_MAP_ID" style="height: 20vh; width: 50%;">
+                        <gmp-advanced-marker
+        position="12.434792248442891, -86.89001795969176"
+        title="CFSMotors Honda León"></gmp-advanced-marker>
+                    </gmp-map>
+                </div>
+            </div>
         </div>
     </footer>
 </body>
-
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtfqTfjQ6T6IMEWArgoakHbRw1TgBnopg&libraries=maps,marker"
+    defer></script>
 <script src="JS/bootstrap.min.js"></script>
 <script src="JS/index.js"></script>
 <script src="JSON/Motos.json"></script>
+
 
 </html>
