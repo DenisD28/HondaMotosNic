@@ -1,9 +1,5 @@
 window.addEventListener('load', () => {
-
-    if (window.location.pathname.includes('index.html')) {
-        cargarMotos();
-    }
-
+    cargarMotos();
 });
 
 
