@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "Marca": "Honda",
     "Modelo": "Dio 110",
     "Descripcion": "Scooter compacto, económico y ágil, ideal para desplazamientos urbanos gracias a su bajo consumo de combustible y facilidad de conducción.",
@@ -9,7 +10,7 @@
       "Torque": "9 Nm aprox.",
       "Transmision": "Automática CVT",
       "Arranque": "Eléctrico y pedal",
-      "FrenoDelantero": "Disco",
+      "FrenoDelantero": "Tambor",
       "FrenoTrasero": "Tambor",
       "SuspensionDelantera": "Horquilla telescópica",
       "SuspensionTrasera": "Monoamortiguador",
@@ -22,6 +23,7 @@
     "tipo": "Scooter"
   },
   {
+    "id": 2,
     "Marca": "Honda",
     "Modelo": "Wave 110S",
     "Descripcion": "Motocicleta semiautomática reconocida por su economía, confiabilidad y facilidad de mantenimiento.",
@@ -31,7 +33,7 @@
       "Torque": "8.6 Nm aprox.",
       "Transmision": "Semiautomática de 4 velocidades",
       "Arranque": "Eléctrico y pedal",
-      "FrenoDelantero": "Tambor",
+      "FrenoDelantero": "Disco",
       "FrenoTrasero": "Tambor",
       "CapacidadTanque": "3.7 L"
     },
@@ -42,6 +44,7 @@
     "tipo": "Semiautomatica"
   },
   {
+    "id": 3,
     "Marca": "Honda",
     "Modelo": "Navi 110",
     "Descripcion": "Mini moto urbana con diseño juvenil, transmisión automática y excelente maniobrabilidad.",
@@ -62,6 +65,7 @@
     "tipo": "Mini moto urbana"
   },
   {
+    "id": 4,
     "Marca": "Honda",
     "Modelo": "Elite 125",
     "Descripcion": "Scooter cómodo y moderno, ideal para el uso diario con excelente eficiencia de combustible.",
@@ -82,6 +86,7 @@
     "tipo": "Scooter"
   },
   {
+    "id": 5,
     "Marca": "Honda",
     "Modelo": "CB100",
     "Descripcion": "Motocicleta urbana confiable y económica para trabajo y uso diario.",
@@ -102,6 +107,7 @@
     "tipo": "Mensajera"
   },
   {
+    "id": 6,
     "Marca": "Honda",
     "Modelo": "CB125F Twister",
     "Descripcion": "Motocicleta deportiva ligera con excelente equilibrio entre rendimiento y economía.",
@@ -122,6 +128,7 @@
     "tipo": "Deportiva"
   },
   {
+    "id": 7,
     "Marca": "Honda",
     "Modelo": "CB125 Hornet",
     "Descripcion": "Naked deportiva con diseño moderno, excelente desempeño urbano y gran eficiencia.",
@@ -142,6 +149,7 @@
     "tipo": "Deportiva"
   },
   {
+    "id": 8,
     "Marca": "Honda",
     "Modelo": "CBF150S",
     "Descripcion": "Motocicleta urbana con diseño deportivo, cómoda y eficiente para recorridos diarios.",
@@ -162,6 +170,7 @@
     "tipo": "Deportiva"
   },
   {
+    "id": 9,
     "Marca": "Honda",
     "Modelo": "Shadow 150",
     "Descripcion": "Motocicleta estilo cruiser con posición de manejo relajada y diseño clásico.",
@@ -182,6 +191,7 @@
     "tipo": "Cruiser"
   },
   {
+    "id": 10,
     "Marca": "Honda",
     "Modelo": "XBlade 160",
     "Descripcion": "Motocicleta naked deportiva con diseño agresivo y excelente rendimiento urbano.",
@@ -202,6 +212,7 @@
     "tipo": "Deportiva"
   },
   {
+    "id": 11,
     "Marca": "Honda",
     "Modelo": "CB160R Hornet",
     "Descripcion": "Naked deportiva de gran desempeño, ideal para ciudad y carretera.",
@@ -222,6 +233,7 @@
     "tipo": "Deportiva"
   },
   {
+    "id": 12,
     "Marca": "Honda",
     "Modelo": "CB190R 2.0",
     "Descripcion": "Motocicleta naked deportiva con diseño moderno y excelente respuesta en carretera.",
@@ -242,6 +254,7 @@
     "tipo": "Deportiva"
   },
   {
+    "id": 13,
     "Marca": "Honda",
     "Modelo": "NX190",
     "Descripcion": "Motocicleta doble propósito diseñada para ciudad y caminos rurales.",
@@ -262,6 +275,7 @@
     "tipo": "Montañera"
   },
   {
+    "id": 14,
     "Marca": "Honda",
     "Modelo": "CB300F Twister",
     "Descripcion": "Naked deportiva de media cilindrada con excelente potencia y tecnología moderna.",
@@ -282,6 +296,7 @@
     "tipo": "Deportiva"
   },
   {
+    "id": 15,
     "Marca": "Honda",
     "Modelo": "XR150L",
     "Descripcion": "Motocicleta doble propósito ideal para trabajo, ciudad y caminos de tierra.",
@@ -302,6 +317,7 @@
     "tipo": "Enduro"
   },
   {
+    "id": 16,
     "Marca": "Honda",
     "Modelo": "XR190L",
     "Descripcion": "Motocicleta doble propósito con mayor potencia para carretera y terrenos difíciles.",
@@ -322,6 +338,7 @@
     "tipo": "Enduro"
   },
   {
+    "id": 17,
     "Marca": "Honda",
     "Modelo": "XR300L",
     "Descripcion": "Motocicleta doble propósito preparada para recorridos largos y terrenos exigentes.",
@@ -342,6 +359,7 @@
     "tipo": "Enduro"
   },
   {
+    "id": 18,
     "Marca": "Honda",
     "Modelo": "CRF300F",
     "Descripcion": "Motocicleta de enduro diseñada para uso fuera de carretera y aventuras.",
@@ -362,6 +380,7 @@
     "tipo": "Enduro"
   },
   {
+    "id": 19,
     "Marca": "Honda",
     "Modelo": "CRF300 Rally",
     "Descripcion": "Motocicleta adventure inspirada en el Dakar, ideal para viajes y rutas mixtas.",
@@ -382,6 +401,7 @@
     "tipo": "Adventure"
   },
   {
+    "id": 20,
     "Marca": "Honda",
     "Modelo": "TRX250TM 4x2 Manual",
     "Descripcion": "Cuadraciclo utilitario robusto para trabajo agrícola, ganadero y recreación.",
@@ -401,6 +421,7 @@
     "tipo": "Cuadraciclo"
   },
   {
+    "id": 21,
     "Marca": "Honda",
     "Modelo": "TRX250X Sport",
     "Descripcion": "Cuadraciclo deportivo diseñado para recreación y conducción off-road.",
