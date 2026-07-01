@@ -19,7 +19,7 @@
     "Año": 2026,
     "precio": "C$58,544",
     "precioPromo": "C$50,908",
-    "rutadeimg": "./IMG/Dio110.jpg",
+    "rutadeimg": "IMG/Dio110.jpg",
     "tipo": "Scooter"
   },
   {
@@ -40,7 +40,7 @@
     "Año": 2026,
     "precio": "C$61,071",
     "precioPromo": "C$53,105",
-    "rutadeimg": "../IMG/wave.png",
+    "rutadeimg": "IMG/wave.png",
     "tipo": "Semiautomatica"
   },
   {
@@ -61,7 +61,7 @@
     "Año": 2026,
     "precio": "C$71,179",
     "precioPromo": "C$61,895",
-    "rutadeimg": "../IMG/navieditada.png",
+    "rutadeimg": "IMG/navieditada.png",
     "tipo": "Mini moto urbana"
   },
   {
@@ -82,7 +82,7 @@
     "Año": 2026,
     "precio": "C$73,706",
     "precioPromo": "C$64,093",
-    "rutadeimg": "../IMG/elite125.jpg",
+    "rutadeimg": "IMG/elite125.jpg",
     "tipo": "Scooter"
   },
   {
@@ -103,7 +103,7 @@
     "Año": 2026,
     "precio": "C$48,436",
     "precioPromo": "C$42,118",
-    "rutadeimg": "../IMG/cb100.jpg  ",
+    "rutadeimg": "IMG/cb100.jpg  ",
     "tipo": "Mensajera"
   },
   {
@@ -124,7 +124,7 @@
     "Año": 2026,
     "precio": "C$69,495",
     "precioPromo": "C$60,430",
-    "rutadeimg": "../IMG/cb125f.jpg",
+    "rutadeimg": "IMG/cb125f.jpg",
     "tipo": "Deportiva"
   },
   {
@@ -145,7 +145,7 @@
     "Año": 2026,
     "precio": "C$79,603",
     "precioPromo": "C$69,220",
-    "rutadeimg": "../IMG/125hornet.png",
+    "rutadeimg": "IMG/125hornet.png",
     "tipo": "Deportiva"
   },
   {
@@ -166,7 +166,7 @@
     "Año": 2026,
     "precio": "C$71,179",
     "precioPromo": "C$61,895",
-    "rutadeimg": "../IMG/cbf150s.jpg",
+    "rutadeimg": "IMG/cbf150s.jpg",
     "tipo": "Deportiva"
   },
   {
@@ -187,7 +187,7 @@
     "Año": 2026,
     "precio": "C$92,659",
     "precioPromo": "C$80,573",
-    "rutadeimg": "../IMG/shadow.jpg",
+    "rutadeimg": "IMG/shadow.jpg",
     "tipo": "Cruiser"
   },
   {
@@ -208,7 +208,7 @@
     "Año": 2026,
     "precio": "C$96,871",
     "precioPromo": "C$84,236",
-    "rutadeimg": "../IMG/xblade.png",
+    "rutadeimg": "IMG/xblade.png",
     "tipo": "Deportiva"
   },
   {
@@ -229,7 +229,7 @@
     "Año": 2026,
     "precio": "C$109,507",
     "precioPromo": "C$95,224",
-    "rutadeimg": "../IMG/hornet160.jpg",
+    "rutadeimg": "IMG/hornet160.jpg",
     "tipo": "Deportiva"
   },
   {
@@ -250,7 +250,7 @@
     "Año": 2026,
     "precio": "C$134,777",
     "precioPromo": "C$117,198",
-    "rutadeimg": "../IMG/cb190r.png",
+    "rutadeimg": "IMG/cb190r.png",
     "tipo": "Deportiva"
   },
   {
@@ -271,7 +271,7 @@
     "Año": 2026,
     "precio": "C$143,201",
     "precioPromo": "C$124,523",
-    "rutadeimg": "../IMG/nx190.jpg",
+    "rutadeimg": "IMG/nx190.jpg",
     "tipo": "Montañera"
   },
   {
@@ -292,7 +292,7 @@
     "Año": 2026,
     "precio": "C$164,260",
     "precioPromo": "C$142,835",
-    "rutadeimg": "../IMG/cb300f.png",
+    "rutadeimg": "IMG/cb300f.png",
     "tipo": "Deportiva"
   },
   {
@@ -313,7 +313,7 @@
     "Año": 2026,
     "precio": "C$143,201",
     "precioPromo": "C$124,523",
-    "rutadeimg": "../IMG/xr150l.jpg",
+    "rutadeimg": "IMG/xr150l.jpg",
     "tipo": "Enduro"
   },
   {
@@ -334,7 +334,7 @@
     "Año": 2026,
     "precio": "C$172,684",
     "precioPromo": "C$150,160",
-    "rutadeimg": "../IMG/xr190l.jpg",
+    "rutadeimg": "IMG/xr190l.jpg",
     "tipo": "Enduro"
   },
   {
@@ -355,7 +355,7 @@
     "Año": 2026,
     "precio": "C$290,614",
     "precioPromo": "C$252,708",
-    "rutadeimg": "../IMG/xr300l.png",
+    "rutadeimg": "IMG/xr300l.png",
     "tipo": "Enduro"
   },
   {
@@ -376,7 +376,7 @@
     "Año": 2026,
     "precio": "C$326,414",
     "precioPromo": "C$283,838",
-    "rutadeimg": "../IMG/crf300.jpg",
+    "rutadeimg": "IMG/crf300.jpg",
     "tipo": "Enduro"
   },
   {
@@ -397,7 +397,7 @@
     "Año": 2026,
     "precio": "$9,430",
     "precioPromo": "$8,200",
-    "rutadeimg": "../IMG/crf300rally.jpg",
+    "rutadeimg": "IMG/crf300rally.jpg",
     "tipo": "Adventure"
   },
   {
@@ -417,7 +417,7 @@
     "Año": 2026,
     "precio": "$8,625",
     "precioPromo": "$7,500",
-    "rutadeimg": "../IMG/trx250.png",
+    "rutadeimg": "IMG/trx250.png",
     "tipo": "Cuadraciclo"
   },
   {
@@ -438,7 +438,7 @@
     "Año": 2026,
     "precio": "$8,970",
     "precioPromo": "$7,800",
-    "rutadeimg": "../IMG/trx250sport.jpg",
+    "rutadeimg": "IMG/trx250sport.jpg",
     "tipo": "Cuadraciclo deportivo"
   }
 ]
