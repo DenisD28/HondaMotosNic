@@ -80,13 +80,13 @@ function mostrarModal(moto) {
 
 
 function redireccion(id) {
-    console.log(id);
 
+    const urlimg = `https://motoshondanic.netlify.app/${moto.rutadeimg}`;
     fetch('JSON/Motos.json')
         .then(res => res.json())
         .then(data => {
             const moto = data.find(m => m.id === id);
-            window.location.href = `https://wa.me/50586644337?text=Hola,%20estoy%20interesado%20en%20la%20moto%20${encodeURIComponent(moto.Modelo)}.%20¿Podrías%20darme%20más%20información? Foto: ${encodeURIComponent(moto.rutadeimg)}`;
+            window.location.href = `https://wa.me/50586644337?text=Hola,%20estoy%20interesado%20en%20la%20moto%20${encodeURIComponent(moto.Modelo)}.%20¿Podrías%20darme%20más%20información? Foto: ${urlimg}`;
         });
     
 }
