@@ -81,7 +81,7 @@ function mostrarModal(moto) {
 
 function redireccion(id) {
 
-    const urlimg = ``;
+    var urlimg = ``;
     fetch('JSON/Motos.json')
         .then(res => res.json())
         .then(data => {
